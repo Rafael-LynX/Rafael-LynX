@@ -1,54 +1,35 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  <img height="200" src="https://github.com/Rafael-LynX/Rafael-LynX/blob/main/1385824.jpg"  />
+</div>
 
-<p align="left"> 
-  Sou <strong>Rafael Vieira</strong>, tenho 23 anos, um iniciante da área de programação, estudo Engenharia de Software e trabalho meio periódo. 
-</p>
+###
 
-<p align="left">
-  🦄 Linguagens: Python
-</p>
+<h3 align="center">About me</h3>
 
-<p align="left">
-  💼 Ferramentas: Calculadora
-</p>
+###
 
-<p align="left">
-  💌 Contatos: ⤵️
-</p>
+<p align="center">⸝⸝ Brazilian, he/him, PT-BR - Learning English, <br>currently studying Backend, with a strong interest in the geek universe.</p>
 
-<p align="left">
-  <a href="rafaellvieira2017@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/rafaelvieira-cyber/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
+###
 
-### ⚙️ GitHub Analytics
+<h6 align="center">with interests in:  Cybersecurity, AppSec, DevSecOps </h6>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Rafael-LynX&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-LynX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-LynX&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+###
 
+<div align="center">
+  <img height="200" src="https://github.com/Rafael-LynX/Rafael-LynX/blob/main/khun-aguero-agnis-tower-of-god-anime-uhdpaper.com-4K-7.1948.jpg"  />
+</div>
+
+###
+
+<p align="center">Exploring backend programming for to improve cybersecurity and ensure the security of your data. <br>I'm always excited to learn new things and improve as a person and a professional.  ⠀</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafaelvieira-cyber/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a> 
+</div>
+
+###
