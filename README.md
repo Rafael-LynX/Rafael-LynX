@@ -6,7 +6,8 @@
 
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> About me: 
 
-Hello! My name is Rafael. I am someone who really likes technology and other subjects in general, but it is impossible to learn everything, hehe. So, I decided to pursue cybersecurity with the goal of pursuing a career in appsec. But my ultimate goal is to be a generalist in the cyber field. I am open to my first and new opportunity in cybersecurity.
+Hello! My name is Rafael. I am someone who really likes technology and other subjects in general, but it is impossible to learn everything, hehe. So, I decided to pursue cybersecurity with the goal of pursuing a career in appsec. But my ultimate goal is to be a Cybersecurity Pi-Shaped specialist in AppSec and AI Security, with a generalist view in other areas of 
+cybersecurity. Open to my first opportunity in Cybersecurity.
 
 I also like the geek world and hate loud noises around me, hehe.
 
